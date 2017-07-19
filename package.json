@@ -15,5 +15,8 @@
     "express": "^4.15.3",
     "express-validator": "^3.2.1",
     "socket.io": "^2.0.3"
+  },
+  "engines": {
+    "node": "8.1.3"
   }
 }
